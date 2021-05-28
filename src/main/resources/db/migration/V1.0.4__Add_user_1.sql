@@ -1,0 +1,1 @@
+insert into `sys_user` values (1, 'admin', '12345', 18, 1);
